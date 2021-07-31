@@ -1,2 +1,3 @@
 # Abito - сайт объявлений
-Учебный проект
+Учебный проект Glo Academy
+https://eugenenovos.github.io/abito/
